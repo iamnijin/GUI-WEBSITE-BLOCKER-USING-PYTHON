@@ -1,9 +1,9 @@
 # GUI-WEBSITE-BLOCKER-USING-PYTHON
 This python programmed application is made to block the sites you dont want when the application is run.
 This application consists of three buttons:
-      1)RUN - To start the apllication
-      2)STOP - To unblock the sites and also to stop the Running of application
-      3)EXIT - To exit the application
+1)RUN - To start the apllication
+2)STOP - To unblock the sites and also to stop the Running of application
+3)EXIT - To exit the application
 
 
 
