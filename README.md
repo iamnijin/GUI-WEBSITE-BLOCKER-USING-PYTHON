@@ -28,6 +28,10 @@ It is important to run the application as administrator as it requires to access
     3)Execute the application by runing the command "python START.py"
 Thats it !!!
 
+## HOW TO ADD AND REMOVE SITES TO AND FROM BLOCKED LIST
+    
+    1)TO add - In the MAIN.py file add the sites url in the website_list list and save it
+    2)TO remove - In the MAIN.py file remove the sites url in the website_list list and save it
 
 ## Built With
   PYTHON
