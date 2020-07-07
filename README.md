@@ -23,9 +23,12 @@ Thats it !!!
 
 ## RUNNING In WINDOWS
 It is important to run the application as administrator as it requires to access the host file.The following steps can be followed to run the application.
-    1)Open the command prompt as administrator by right clicking and selecting the option "Run as Administrator"
-    2)Use the "cd" command to direct to the file where the application is at
-    3)Execute the application by runing the command "python START.py"
+        
+	1)Open the command prompt as administrator by right clicking and selecting the option "Run as Administrator"
+        
+	2)Use the "cd" command to direct to the file where the application is at
+        
+	3)Execute the application by runing the command "python START.py"
 Thats it !!!
 
 ## HOW TO ADD AND REMOVE SITES TO AND FROM BLOCKED LIST
