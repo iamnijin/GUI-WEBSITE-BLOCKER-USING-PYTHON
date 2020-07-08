@@ -8,7 +8,7 @@ class START:
         self.master = master
         master.title("")
         
-        self.label = Label(master, text="SITE BLOCKER")
+        self.label = Label(master, text="WEB BLOCK")
         self.label.pack()
 
         self.greet_button = Button(master, text="RUN", command=RUN.run)
