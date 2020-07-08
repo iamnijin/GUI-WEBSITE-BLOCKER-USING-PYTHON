@@ -1,4 +1,4 @@
-# GUI-WEBSITE-BLOCKER-USING-PYTHON
+# WEB BLOCK
 This python programmed application is made to block the sites you dont want when the application is run.
 This application consists of three buttons:
 
